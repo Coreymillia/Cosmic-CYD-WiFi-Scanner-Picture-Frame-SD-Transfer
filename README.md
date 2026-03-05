@@ -18,7 +18,7 @@ Power it on. It runs as an art portal. When no one is connected it drops into **
 ### WiFi Scanner modes
 | SCAN Mode | PROBE / SHADY Mode | DAUTH Mode |
 |---|---|---|
-| ![WiFi scan results](IMG_20260304_004539.jpg) | ![Probe / Shady](IMG_20260304_004612.jpg) | ![Deauth detector](IMG_20260304_004709.jpg) |
+| ![WiFi scan results](IMG_20260304_004539.jpg) | ![Deauth detector](IMG_20260304_004709.jpg) |
 
 ### Captive portal — phone prompt & portal pages
 ![Captive portal sign-in prompt](Screenshot_20260301-143805.png)
